@@ -1,0 +1,1 @@
+This is my first project with The Odin Project. I hope I do well and not fuck things up rofl.
